@@ -1,0 +1,27 @@
+
+.main-container{
+	border: 2px solid black;
+	height: 35rem;
+	width: 60rem;
+	margin-top: 10%;
+	margin-left: 30%;
+
+}
+.ss{
+	border: 2px solid white;
+
+}
+.lss{
+	color:white;
+	background-color: tomato;
+}
+.container{
+	border: 2px solid blue;
+}
+.button{
+	text-align: center;
+}
+.display{
+	color: white;
+	font-size: 70px;
+}
